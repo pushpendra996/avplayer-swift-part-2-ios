@@ -1,6 +1,6 @@
 # Custom AV Player Series: Part 2 - Device Rotation Control
 
-[![Custom AV Player](https://github.com/pushpendra996/avplayer-swift-part-1-ios/blob/main/Custom%20AV%20Player%20in%20Swift%20iOS.png?raw=true)](https://youtu.be/naMfH2nryvQ)
+[![Custom AV Player](https://github.com/pushpendra996/avplayer-swift-part-2-ios/blob/main/Rotate%20AVPlayer%20in%20Swift%20iOS.png?raw=true)](https://www.youtube.com/watch?v=Hi6vOtdOejI)
 
 
 Welcome to Part 2 of the Custom AV Player Series! In this part, we'll dive deeper into building a video player like Netflix, Prime, and Hotstar in iOS using Swift. In this specific video, we'll focus on implementing device rotation control to enhance the user experience and provide seamless video playback.
